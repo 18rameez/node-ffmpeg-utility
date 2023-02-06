@@ -3,12 +3,12 @@
 	"description": "Utility for managing video streams using ffmpeg",
 	"version": "0.0.4",
 	"author": {
-		"name": "Damiano Ciarla",
-		"email": "damiano.ciarl@gmail.com"
+		"name": "Abbas Ramish",
+		"email": "18rameez@gmail.com"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/damianociarla/node-ffmpeg.git"
+		"url": "https://github.com/18rameez/node-ffmpeg-utility.git"
 	},
 	"main": "./index.js",
 	"license": "MIT",
