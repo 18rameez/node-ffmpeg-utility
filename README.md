@@ -1,6 +1,6 @@
 About this project
 ===========
-This repository is a fork of the original project located at https://github.com/damianociarla/node-ffmpeg.git and has undergone modifications and bug fixes as the original author is no longer maintaining it. New features will be added to enhance its capabilities.
+This repository is a fork of the original project located at [node-ffmpeg](https://github.com/damianociarla/node-ffmpeg.git) and has undergone modifications and bug fixes as the original author is no longer maintaining it. New features will be added to enhance its capabilities.
 
 If you have any issues or suggestions, feel free to open a new issue or create a pull request. Your contributions and feedback are highly appreciated, and will be used to further enhance the project.
 
