@@ -1,4 +1,11 @@
-node-ffmpeg
+About this project
+===========
+This repository is a fork of the original project located at [node-ffmpeg](https://github.com/damianociarla/node-ffmpeg.git) and has undergone modifications and bug fixes as the original author is no longer maintaining it. New features will be added to enhance its capabilities.
+
+If you have any issues or suggestions, feel free to open a new issue or create a pull request. Your contributions and feedback are highly appreciated, and will be used to further enhance the project.
+
+
+node-ffmpeg-utility
 ===========
 
 [FFmpeg](http://ffmpeg.org/) module for [Node](http://nodejs.org/). This library provides a set of functions and utilities to abstract commands-line usage of ffmpeg. To use this library requires that ffmpeg is already installed (including all necessary encoding libraries like libmp3lame or libx264)
